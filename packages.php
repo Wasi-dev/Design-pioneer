@@ -144,7 +144,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -214,7 +214,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter">
-                                                            <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a>
+                                                            <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a>
                                                             </div>
                                                             <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                                         </div>
@@ -286,7 +286,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -357,7 +357,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -406,7 +406,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -448,7 +448,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -492,7 +492,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter">
-                                        <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -538,7 +538,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -585,7 +585,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -635,7 +635,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -677,7 +677,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -719,7 +719,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -765,7 +765,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -843,7 +843,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -917,7 +917,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter">
-                                                            <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a>
+                                                            <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a>
                                                             </div>
                                                             <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                                         </div>
@@ -992,7 +992,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -1068,7 +1068,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -1116,7 +1116,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1156,7 +1156,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter">
-                                        <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1196,7 +1196,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1236,7 +1236,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1291,7 +1291,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1346,7 +1346,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter">
-                                        <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1394,7 +1394,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1442,7 +1442,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1490,7 +1490,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1538,7 +1538,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1586,7 +1586,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1634,7 +1634,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1682,7 +1682,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1728,7 +1728,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1767,7 +1767,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter">
-                                        <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1807,7 +1807,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1847,7 +1847,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1897,7 +1897,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1938,7 +1938,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter">
-                                        <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -1981,7 +1981,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2023,7 +2023,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2064,7 +2064,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2115,7 +2115,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2166,7 +2166,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2217,7 +2217,7 @@
                                         </div>
                                     </div>
                                     <div class="pricingfooter ">
-                                        <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                        <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                         <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a></div>
                                     </div>
                                     </div>
@@ -2277,7 +2277,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -2331,7 +2331,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter">
-                                                            <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a>
+                                                            <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a>
                                                             </div>
                                                             <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                                         </div>
@@ -2386,7 +2386,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -2440,7 +2440,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -2496,7 +2496,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -2544,7 +2544,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter">
-                                                            <div class="pfdiv1"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a>
+                                                            <div class="pfdiv1"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a>
                                                             </div>
                                                             <div class="pfdiv2"><a href="javascript:;">Need Support</a></div>
                                                         </div>
@@ -2596,7 +2596,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>
@@ -2649,7 +2649,7 @@
                                                             </div>
                                                         </div>
                                                         <div class="pricingfooter ">
-                                                            <div class="pfdiv1 text-dark"><a href="tel:+18886885153">Call Us: +(888) 688-5153</a></div>
+                                                            <div class="pfdiv1 text-dark"><a href="tel:<?php echo $phone_link ?>">Call Us: +<?php echo $phone ?></a></div>
                                                             <div class="pfdiv2 text-dark"><a href="javascript:;">Need Support</a>
                                                             </div>
                                                         </div>

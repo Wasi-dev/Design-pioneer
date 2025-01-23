@@ -37,19 +37,19 @@
                         </svg>
                         <p>USA</p>
                      </div>
-                     <li><span>Phone: <a href="tel:+18886885153">(888) 688-5153</a></span></li>
-                     <li><span>Phone: <a href="mailto:info@logoocta.com">info@logoocta.com</a></span></li>
+                     <li><span>Phone: <a href="tel:<?php echo $phone_link ?>"><?php echo $phone ?></a></span></li>
+                     <li><span>Phone: <a href="<?php echo $email_link ?>"><?php echo $email ?></a></span></li>
                      
-                     <li> <span>Address: 800 SW Jackson St Topeka, KS 66612</span></li>
+                     <li> <span>Address:<?php echo $address ?></span></li>
                   </ul>
                  
                </div>
                <div class="col-lg-3 col-sm-6  ftr-brand-pp">
                   <a class="navbar-brand mt30 mb25 f-dark-logo" href="index.php"> 
-                    <img src="assest/images/logo-1.png" alt="Logo">    
+                    <img src="assest/images/logo-dark.png" alt="Logo">    
                     </a>
                   <a class="navbar-brand mt30 mb25 f-white-logo" href="index.php"> 
-                     <img src="assest/images/logo-1.png" alt="Logo">
+                     <img src="assest/images/logo-lite.png" alt="Logo">
                     </a>
                   <p class="wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-name: fadeIn;">
                       We are a small company with big ideas and offer flexible solutions to suit your needs. 

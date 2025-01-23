@@ -62,7 +62,7 @@ Our team members are committed to delivering only the best results possible. Reg
           </div>
           <div class="project-platform mt60 pl25 new">
             <a href="#offcanvasExample" data-bs-toggle="offcanvas" data-sku="Get Started"  class="pkg_btn btn-main bg-btn lnk wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">Get Started <i class="fas fa-chevron-right fa-ani"></i><span class="circle"></span></a> 
-            <p class="cta-a-custom new"> <a href="tel:+18886885153"><i class="fas fa-phone-alt"></i> (888) 688-5153</a></p>
+            <p class="cta-a-custom new"> <a href="tel:<?php echo $phone_link ?>"><i class="fas fa-phone-alt"></i> <?php echo $phone ?></a></p>
             </div>
             
           </div>
@@ -112,7 +112,7 @@ We have over 20 years of experience in the industry and understand perfectly wel
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
           Climb the Ladder of Success with Logo Octa</h2>
-         <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:+18886885153" style="color: #fff;">(888) 688-5153</a> </span></p>
+         <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
       <p class="wow fadeInDown"  data-wow-delay="0.5s" style="visibility: visible; animation-name: fadeInDown;" >Best Service, Right Time, Right People
@@ -136,7 +136,7 @@ We have over 20 years of experience in the industry and understand perfectly wel
      <div class="cta-content col-lg-12 v-center">
       <div class="cta-heading">
        <h2 class="wow fadeInLeft"  data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;" >Let Us Create Your Logo Today To Save $50 .</h2>
-          <p class="wow fadeInUp"  data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeInUp;">Let's Start a Conversation Today. <span> (888) 688-5153 </span></p>
+          <p class="wow fadeInUp"  data-wow-delay="1.1s" style="visibility: visible; animation-delay: 1.1s; animation-name: fadeInUp;">Let's Start a Conversation Today. <span> <?php echo $phone ?> </span></p>
       </div>
       <div class="cta-para">
        <p class="wow fadeInDown"  data-wow-delay="1.5s" style="visibility: visible; animation-delay: 1.5s; animation-name: fadeInDown;">Best Service, Right Time, Right People
@@ -552,7 +552,7 @@ We work together to design a beautiful, functional website that represents your 
      <div class="cta-heading">
       <h2 class="wow fadeInLeft"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInLeft;" >Create Your eStore Today and
          Save $50 eCommerce Website.</h2>
-         <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">Contact us now to start the conversation. <span> <a href="tel:+18886885153" style="color: #fff;">(888) 688-5153</a> </span></p>
+         <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">Contact us now to start the conversation. <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
       <p class="wow fadeInDown"  data-wow-delay="0.5s" style="visibility: visible; animation-name: fadeInDown;">Best Service, Right Time, Right People
@@ -584,11 +584,11 @@ We work together to design a beautiful, functional website that represents your 
                         our clients whenever they need us. Contact us for more information.</p>
                      <div class="pairofbtn mt90 new wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;">
                         <a href="#offcanvasExample" data-bs-toggle="offcanvas" data-sku="Get In Touch With Us" class="pkg_btn niwax-btn3">Get In Touch With Us</a>
-                        <a href="tel:+18886885153" class="btnwithiconside d-flex gap10 v-center">
+                        <a href="tel:<?php echo $phone_link ?>" class="btnwithiconside d-flex gap10 v-center">
                            <!--<img src="assest/images/icons/whatsapp.svg" alt="whatsapp">-->
                            <div data-bs-toggle="offcanvas" class="btn-round- btn-br bg-btn2">
                         <i class="fas fa-phone-alt"></i></div>
-                           <div class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;"> <span>Or - Just Give Us A Call:</span>+(888) 688-5153 </div>
+                           <div class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;"> <span>Or - Just Give Us A Call:</span>+<?php echo $phone ?> </div>
                         </a>
                      </div>
                   </div>

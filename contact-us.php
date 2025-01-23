@@ -91,8 +91,8 @@
                                             <h6>Registered Office</h6>
                                              
                                             <p>30 N Gould St Ste R Sheridan, <br>WY 82801</p>
-                                            <p><span class="contact-head">Email:</span> info@logoocta.com</p>
-                                            <p><span class="contact-head">Phone:</span> (888) 688-5153</p>
+                                            <p><span class="contact-head">Email:</span> <?php echo $email ?></p>
+                                            <p><span class="contact-head">Phone:</span> <?php echo $phone ?></p>
                                         </div>
                                     </div>
                                 </div>

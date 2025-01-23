@@ -10,7 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="MOUDpoxwWxAWuXiDtiOvKcy2oO4ZIwQ0_0vO8upY5J4" />
 
-<link rel="icon" href="https://www.logoocta.com/wp-content/uploads/2022/02/logo-octa-150x150.png" sizes="32x32" />
+<link rel="icon" href="" sizes="32x32" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/assest/npm/swiper/swiper-bundle.min.css" />
 <link href="assest/css/bootstrap.min.css" rel="stylesheet">
 <link href="assest/css/plugin.min.css" rel="stylesheet">
@@ -26,6 +26,8 @@
 
 <!-- Start of designpriestssupport Zendesk Widget script -->
  <!-- End of designpriestssupport Zendesk Widget script -->
+ <?php include 'config.php';?>
+
  <?php $link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>
 </head>
 <style>
@@ -142,9 +144,9 @@
       margin: 0;
       padding-top: 5px;
    }
-   img.mega-white-logo {
+   /* img.mega-white-logo {
     filter: brightness(47.5);
-}
+} */
 </style>
 
 
@@ -158,8 +160,8 @@
          <div class="menu-header">
             <div class="dsk-logo">
                <a class="nav-brand" href="index.php">
-                  <img src="assest/images/logo-1.png" alt="Logo Octa Logo White" class="mega-white-logo">
-                  <img src="assest/images/logo-1.png" alt="Logo Octa Logo Dark" class="mega-darks-logo">
+                  <img src="assest/images/logo-lite.png" alt="Logo Octa Logo White" class="mega-white-logo">
+                  <img src="assest/images/logo-dark.png" alt="Logo Octa Logo Dark" class="mega-darks-logo">
                </a>
             </div>
 
@@ -277,7 +279,7 @@
 
                <ul class="nav-list right-end-btn">
                   <li class="hidemobile">
-                     <a href="tel:+18886885153" class="btn-round- btn-br bg-btn2">
+                     <a href="tel:<?php echo $phone_link ?>" class="btn-round- btn-br bg-btn2">
                         <i class="fas fa-phone-alt"></i></a>
                   </li>
                   <li class="hidemobile"><a href="#offcanvasExample" data-bs-toggle="offcanvas" data-sku="Request A Quote" class="pkg_btn btn-br bg-btn3 btshad-b2 lnk">Request A Quote

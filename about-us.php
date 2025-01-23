@@ -292,11 +292,11 @@
                         our clients whenever they need us. Contact us for more information.</p>
                      <div class="pairofbtn mt90 new wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;">
                         <a href="#offcanvasExample" data-bs-toggle="offcanvas"  data-sku="Get In Touch With Us" class="pkg_btn niwax-btn3">Get In Touch With Us</a>
-                        <a href="tel:+18886885153" class="btnwithiconside d-flex gap10 v-center">
+                        <a href="tel:<?php echo $phone_link ?>" class="btnwithiconside d-flex gap10 v-center">
                            <!--<img src="assest/images/icons/whatsapp.svg" alt="whatsapp">-->
                            <div data-bs-toggle="offcanvas" class="btn-round- btn-br bg-btn2">
                         <i class="fas fa-phone-alt"></i></div>
-                           <div class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;"> <span>Or - Just Give Us A Call:</span>+(888) 688-5153 </div>
+                           <div class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;"> <span>Or - Just Give Us A Call:</span>+<?php echo $phone ?> </div>
                         </a>
                      </div>
                   </div>
