@@ -52,7 +52,7 @@ As a leading digital solutions provider, we understand how important it is for p
             <span>Enthralling Website Design</span>
             <h2>Offering Innovative Website Design Services </h2>
             <p>
-            Logo Octa specializes in designing websites that engage your visitors and convert them into paying customers. Our team has more than 10 years of experience developing stunning websites guaranteed to impress your visitors. We can design any website for you, from blogs and online stores to lead generation sites. All our web designs are created using the latest technologies and are optimized for search engines. They are easy to navigate and will help you to generate more leads. Whether you need a new website or want to revamp your existing one, our expert web designers can help you to achieve the desired results.
+            Design Pioneer Studio specializes in designing websites that engage your visitors and convert them into paying customers. Our team has more than 10 years of experience developing stunning websites guaranteed to impress your visitors. We can design any website for you, from blogs and online stores to lead generation sites. All our web designs are created using the latest technologies and are optimized for search engines. They are easy to navigate and will help you to generate more leads. Whether you need a new website or want to revamp your existing one, our expert web designers can help you to achieve the desired results.
 
               </p>
             <p>  Work with the best eCommerce site improvement organization to get a strong internet based store that drives deals and expands benefit. Contact now to begin. </p>
@@ -84,7 +84,7 @@ As a leading digital solutions provider, we understand how important it is for p
             <span>Premium Award-Winning Website Design Agency </span>
             <h2>Stunning Website Designs to Wow Your Audience </h2>
             <p>
-                Logo Octa has offered superior website design services to businesses worldwide for years. We can design any website, from blogs to eCommerce and lead generation sites. Our professional team consists of experts who know what makes a great website. They will analyze your business model, market niche, and objectives to develop a customized solution for your company. We only employ talented graphic artists and web developers to work on your projects. They will make sure that your website looks amazing and performs flawlessly.
+                Design Pioneer Studio has offered superior website design services to businesses worldwide for years. We can design any website, from blogs to eCommerce and lead generation sites. Our professional team consists of experts who know what makes a great website. They will analyze your business model, market niche, and objectives to develop a customized solution for your company. We only employ talented graphic artists and web developers to work on your projects. They will make sure that your website looks amazing and performs flawlessly.
 </p>
           </div>
           <ul class="h-scroll tech-icons">
@@ -115,7 +115,7 @@ As a leading digital solutions provider, we understand how important it is for p
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -940,7 +940,7 @@ We bring the power to generate, convince, convert & grow for startups & small bu
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -958,7 +958,7 @@ We bring the power to generate, convince, convert & grow for startups & small bu
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -1158,7 +1158,7 @@ We bring the power to generate, convince, convert & grow for startups & small bu
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -1200,7 +1200,7 @@ We bring the power to generate, convince, convert & grow for startups & small bu
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              

@@ -103,7 +103,7 @@
                   <h2 class="wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
                     Web Development and Design Tailored To Your Specifications
                   </h2>
-                  <p>Logo Octa is committed to assisting businesses in expanding through unique web design and development strategies using cutting-edge web development technology. We are a group of young, passionate professionals with extensive experience in Information Technology. We pride ourselves on our ability to deliver high-quality work promptly.
+                  <p>Design Pioneer Studio is committed to assisting businesses in expanding through unique web design and development strategies using cutting-edge web development technology. We are a group of young, passionate professionals with extensive experience in Information Technology. We pride ourselves on our ability to deliver high-quality work promptly.
                   </p>
                     <p>
                     As we have well-known web designers and developers available with us, you can be assured that we will ensure that your business website looks professional and make it easy for your customers to navigate around different pages without any hassle.</p>
@@ -169,7 +169,7 @@
             <div data-tilt="" data-tilt-max="5" data-tilt-speed="1000" class="col-lg-6-cus col-sm-12  wow fadeInUp" data-wow-delay=".2s" style="visibility: visible; animation-name: fadeInUp; will-change: transform; transform: perspective(1000px) rotateX(0deg) rotateY(0deg) scale3d(1, 1, 1);">
                <div class="service-sec-brp srvc-bg-nx bg-gradient13 text-w">
                   <h4 class="mb10">The Creative Solutions We Offer</h4>
-                  <p>Logo Octa offers a number of digital marketing services and consulting to help you with your online business. Learn more about our services click here for the full list.</p>
+                  <p>Design Pioneer Studio offers a number of digital marketing services and consulting to help you with your online business. Learn more about our services click here for the full list.</p>
                   <a href="javascript:void(0)" class="mt20 link-prb">Learn More <i class="fas fa-chevron-right fa-icon"></i></a>
                </div>
             </div>
@@ -232,7 +232,7 @@
                      <li> <a href="javascript:;">Astra </a> </li>
                      <li> <a href="javascript:;">Divi </a></li>
                   </ul>
-                  <p>Logo Octa specializes in designing WordPress websites that engage your website visitors and convert them into paying customers.</p>
+                  <p>Design Pioneer Studio specializes in designing WordPress websites that engage your website visitors and convert them into paying customers.</p>
                </div>
             </div>
          </div>
@@ -241,11 +241,12 @@
    <!--End Service-->
   <!--Start Cta -->
   <section class="cta wow fadeInUp" style="padding-top: 100px;" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInUp;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -2704,7 +2705,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -2722,7 +2723,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -2847,7 +2848,8 @@ We work together to design a beautiful, functional website that represents your 
    <!--End Work category-->   
   <!--Start Cta -->
   <section class="cta wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInLeft;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="    background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 24px; ">
       <div class="row">
     <div class="cta-content col-lg-12 v-center">
      <div class="cta-heading">
@@ -2917,7 +2919,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -2959,7 +2961,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              <a href="contact-us.php" class="btn-main bg-btn lnk wow fadeIn" data-wow-delay="0.3s">Let's Work Together <i class="fas fa-chevron-right fa-ani"></i><span class="circle"></span></a>

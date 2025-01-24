@@ -18,7 +18,7 @@
               <div class="bread-title">
                 <h2>Php Development</h2>
                   <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-Logo Octa is a leading PHP development company that provides incredible web application development solutions to many businesses. Our expert developers can help you create powerful applications without spending a fortune. 
+Design Pioneer Studio is a leading PHP development company that provides incredible web application development solutions to many businesses. Our expert developers can help you create powerful applications without spending a fortune. 
                   </p>
                   <div class="awards-block-tt  wow fadeIn" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeIn;"><img src="assest/images/hero/awards-logo.png" alt="awards-logo" class="img-fluid"></div>
               </div>
@@ -68,7 +68,7 @@ We know that managing an application takes time and effort. As such, we aim to m
         </div>
         <div class="col-lg-8 block-1">
           <div class="common-heading text-l pl25">
-            <span>Experts at Logo Octa Offer</span>
+            <span>Experts at Design Pioneer Studio Offer</span>
             <h2>Incomparable PHP Development to Make Your Life Easier</h2>
             <p>
 Regardless of how complex your requirements might seem, rest assured that our team will find a way to meet them. We have designed and developed countless web applications for clients across the world. Whether you're looking to build a social networking website or a mobile app, we can help you achieve your goals. We have the skills to develop a high-performance PHP solution tailored to your business needs. Our team is adept at handling even the most complex projects. We will guide you every step of the way so you always know where you stand. Our team will provide you with a full maintenance package, so you can focus on growing your business.
@@ -88,7 +88,7 @@ Regardless of how complex your requirements might seem, rest assured that our te
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -2691,7 +2691,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -2709,7 +2709,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -2727,7 +2727,7 @@ We work together to design a beautiful, functional website that represents your 
                             <div class="owl-item" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>I was looking for a reliable web development company when one of my colleagues recommended me, logo Octa. They developed an amazing website for me, with high functionality, user-friendliness, and aesthetic appeal. Thanks to them, I've been able to get a huge number of sales daily. Highly recommended!</p>
+                                    <p>I was looking for a reliable web development company when one of my colleagues recommended me, Design Pioneer Studio. They developed an amazing website for me, with high functionality, user-friendliness, and aesthetic appeal. Thanks to them, I've been able to get a huge number of sales daily. Highly recommended!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -2904,7 +2904,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -2946,7 +2946,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              <a href="contact-us.php" class="btn-main bg-btn lnk wow fadeIn" data-wow-delay="0.3s">Let's Work Together <i class="fas fa-chevron-right fa-ani"></i><span class="circle"></span></a>

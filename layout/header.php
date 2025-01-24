@@ -3,7 +3,7 @@
 <head>
 <meta name="robots" content="noindex">
   <meta name="googlebot" content="noindex">
-      <title>Logo Octa | Web Design Agency</title>
+      <title>Design Pioneer Studio | Web Design Agency</title>
 
 </head>
 
@@ -24,8 +24,6 @@
 <link href="assest/css/responsive.min.css" rel="stylesheet">
 <link href="assest/css/jquery.topbar.min.css" rel="stylesheet">
 
-<!-- Start of designpriestssupport Zendesk Widget script -->
- <!-- End of designpriestssupport Zendesk Widget script -->
  <?php include 'config.php';?>
 
  <?php $link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]"; ?>
@@ -160,8 +158,8 @@
          <div class="menu-header">
             <div class="dsk-logo">
                <a class="nav-brand" href="index.php">
-                  <img src="assest/images/logo-lite.png" alt="Logo Octa Logo White" class="mega-white-logo">
-                  <img src="assest/images/logo-dark.png" alt="Logo Octa Logo Dark" class="mega-darks-logo">
+                  <img src="assest/images/logo-lite.png" alt="Design Pioneer Studio Logo White" class="mega-white-logo">
+                  <img src="assest/images/logo-dark.png" alt="Design Pioneer Studio Logo Dark" class="mega-darks-logo">
                </a>
             </div>
 

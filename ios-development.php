@@ -20,7 +20,7 @@
               <div class="bread-title">
                 <h2>iOS Development</h2>
                   <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-                    Are you looking to create an app? Maybe you already have one you'd like to improve, update or revise altogether. At Logo Octa, we have the skills, knowledge and expertise necessary to design and develop iOS applications of all sizes and complexity levels.
+                    Are you looking to create an app? Maybe you already have one you'd like to improve, update or revise altogether. At Design Pioneer Studio, we have the skills, knowledge and expertise necessary to design and develop iOS applications of all sizes and complexity levels.
                   </p>
                   
                   <div class="awards-block-tt  wow fadeIn" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeIn;"><img src="assest/images/hero/awards-logo.png" alt="awards-logo" class="img-fluid"></div>
@@ -52,7 +52,7 @@
             <span>We Offer Exceptional </span>
             <h2>iOS Development To Accelerate Your Business Growth</h2>
             <p>
-            At Logo Octa, our talented team members have years of experience developing iOS apps. We take pride in our ability to design and code functional and user-friendly applications guaranteed to meet your needs. 
+            At Design Pioneer Studio, our talented team members have years of experience developing iOS apps. We take pride in our ability to design and code functional and user-friendly applications guaranteed to meet your needs. 
             Our team members are highly skilled and well versed in all aspects of the mobile industry. We can quickly analyze your existing application and determine what changes or improvements best serve your needs.
               </p>
             <p>  
@@ -85,11 +85,11 @@
         </div>
         <div class="col-lg-8 block-1">
           <div class="common-heading text-l pl25">
-            <span>Experts at Logo Octa Offer </span>
+            <span>Experts at Design Pioneer Studio Offer </span>
             <h2>Highly Advanced Audience Centric iOS App Development Services</h2>
             <p>
             As technology advances rapidly, so does the demand for innovative mobile apps. Launching a successful startup has never been easier, but most founders don't have the technical knowledge or skills necessary to pull off a flawless launch. 
-            Luckily, you have Logo Octa on your side. We offer a full range of iOS development services designed to help you accelerate your business growth. 
+            Luckily, you have Design Pioneer Studio on your side. We offer a full range of iOS development services designed to help you accelerate your business growth. 
             Our team of developers will help you create a fully functional application that meets your needs and goals. Our talented team members have extensive experience building cutting-edge iOS applications. We focus on delivering exceptional results, 
             which is why we strive to ensure that every client receives personalized attention and customized solutions.
                 </p>
@@ -114,7 +114,7 @@
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -400,7 +400,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -418,7 +418,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -618,7 +618,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -660,7 +660,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              

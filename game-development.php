@@ -53,7 +53,7 @@ Do                you enjoy playing games? Would you like to create your own ama
             <span>We Offer Exceptional</span>
             <h2>Game Development Services That Attract New Players</h2>
             <p>
-            At Logo Octa, we understand the importance of creating an engaging and exciting gaming experience. Our talented team members can help you design a game that will keep players coming back for more. 
+            At Design Pioneer Studio, we understand the importance of creating an engaging and exciting gaming experience. Our talented team members can help you design a game that will keep players coming back for more. 
             We take pride in our ability to create high-quality games that are as challenging as they are entertaining. When it comes to game development, there's no such thing as a "one size fits all" solution. 
             We tailor our approach based on your preferences and requirements. 
               </p>
@@ -88,11 +88,11 @@ Do                you enjoy playing games? Would you like to create your own ama
         </div>
         <div class="col-lg-8 block-1">
           <div class="common-heading text-l pl25">
-            <span>Experts at Logo Octa Offer </span>
+            <span>Experts at Design Pioneer Studio Offer </span>
             <h2>Immersive Gaming Experiences That Will Keep Players Engaged</h2>
             <p>
-            At Logo Octa, we specialize in designing and developing groundbreaking games. We're passionate about offering our clients a unique gaming experience. We always take the time to understand our clients' needs and goals.
-            We then use this information to create a game that exceeds their expectations. Regardless of whether you're looking to build a new game from scratch or improve upon an existing title, Logo Octa can help you reach your objectives. 
+            At Design Pioneer Studio, we specialize in designing and developing groundbreaking games. We're passionate about offering our clients a unique gaming experience. We always take the time to understand our clients' needs and goals.
+            We then use this information to create a game that exceeds their expectations. Regardless of whether you're looking to build a new game from scratch or improve upon an existing title, Design Pioneer Studio can help you reach your objectives. 
             Our talented team members have years of experience creating games across multiple platforms and genres. We're dedicated to delivering exceptional results, so we only hire the brightest and most talented individuals.
             </p>
           </div>
@@ -115,7 +115,7 @@ Do                you enjoy playing games? Would you like to create your own ama
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -401,7 +401,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -419,7 +419,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -619,7 +619,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -661,7 +661,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              

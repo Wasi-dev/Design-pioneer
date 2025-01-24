@@ -51,7 +51,7 @@ E-commerce web development is a process through which you can sell your products
             <span>Flexible E-Commerce Websites</span>
             <h2>E-Commerce Websites That Produce Reliable Sales         </h2>
             <p>
-                If you want to convert your visitors into buyers, you need to have a reliable e-commerce system. If you're planning to open an online store, you should consider hiring Logo Octa. We can help you to create a fully functional e-commerce website so that you can start selling your products and services online. We can help you to launch any type of online store. Whether you need to create a small online shop or you require a large platform with thousands of products, we can do it all. All our e-commerce websites are designed using the latest technologies and are optimized to perform well on all devices.
+                If you want to convert your visitors into buyers, you need to have a reliable e-commerce system. If you're planning to open an online store, you should consider hiring Design Pioneer Studio. We can help you to create a fully functional e-commerce website so that you can start selling your products and services online. We can help you to launch any type of online store. Whether you need to create a small online shop or you require a large platform with thousands of products, we can do it all. All our e-commerce websites are designed using the latest technologies and are optimized to perform well on all devices.
 
             </p>
           </div>
@@ -113,7 +113,7 @@ We can assist you to create a powerful e-commerce website that will help you to 
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;">(213) 461-0886</a> </span></p>
      </div>
      <div class="cta-para">
@@ -987,7 +987,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -1005,7 +1005,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -1205,7 +1205,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -1247,7 +1247,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              

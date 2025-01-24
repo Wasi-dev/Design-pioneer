@@ -520,7 +520,7 @@
       </div>
       <div class="service-footer">
             <div class="single-content">
-               <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+               <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
             </div>
             <div class="single-btn">
                <a href="#offcanvasExample" data-bs-toggle="offcanvas" data-sku="Lets Work Together"

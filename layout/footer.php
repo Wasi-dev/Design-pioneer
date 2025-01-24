@@ -62,7 +62,7 @@
             </div>
          </div>
       </div>
-      <div class="footer-brands">
+      <!-- <div class="footer-brands">
          <div class="container">
             <div class="row">
                <div class="col-lg-4 v-center">
@@ -80,20 +80,20 @@
                </div>
             </div>
          </div>
-      </div>
+      </div> -->
       <div class="footer-row3">
          <div class="copyright">
             <div class="container">
                <div class="row">
                   <div class="col-lg-12">
-                     <!-- <div class="footer-social-media-icons">
+                     <div class="footer-social-media-icons">
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-facebook"></i></a>
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-instagram"></i></a>
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-linkedin"></i></a>
                         <a href="javascript:void(0)" target="blank"><i class="fab fa-youtube"></i></a>
-                     </div> -->
+                     </div>
                      <div class="footer-">
-                        <p>©2023. All Rights Reserved By <a href="https://logoocta.com/">Logo Octa</a></p>
+                        <p>©2025. All Rights Reserved By <a href="https://designpioneerstudio.com/"><b>Design Pioneer Studio</b></a></p>
                      </div>
                   </div>
                </div>

@@ -110,7 +110,7 @@
                   <div class="bread-inner">
                     <div class="bread-title">
                       <h2>Creating Incredible Digital Experiences</h2>
-					  <p> Logo Octa is a creative digital agency specializing in building innovative websites, managing social media accounts, creating online ad campaigns, and producing engaging video content. We pride ourselves on being able to deliver high-quality results quickly and efficiently.</p>
+					  <p> Design Pioneer Studio is a creative digital agency specializing in building innovative websites, managing social media accounts, creating online ad campaigns, and producing engaging video content. We pride ourselves on being able to deliver high-quality results quickly and efficiently.</p>
 
                     </div>
                   </div>
@@ -134,7 +134,7 @@
           <div class="common-heading inner-heading text-l pl25">
             <span>Reinventing the Way </span>
             <h2>Websites Are Created</h2>
-            <p>Logo Octa is a renowned web development agency. We strive to take our clients' online presence to the next level. We follow a customized process to 
+            <p>Design Pioneer Studio is a renowned web development agency. We strive to take our clients' online presence to the next level. We follow a customized process to 
             build impressive websites for our clients. We not only focus on building a strong online reputation for the client but also help them grow their revenue. 
             Our experts analyze all aspects of the project, including business objectives, target audience, and competitors. With this information, they develop a strategy that helps them reach their goals quickly.
 </p>
@@ -163,7 +163,7 @@
         <div class="col-lg-6 block-1 v-center">
           <div class="common-heading inner-heading text-l pl25">
             <p>
-                At Logo Octa, innovation is at the core of what we do. We constantly reinvent ourselves to bring the best possible solutions for our valued clients. 
+                At Design Pioneer Studio, innovation is at the core of what we do. We constantly reinvent ourselves to bring the best possible solutions for our valued clients. 
                 We believe in building long-term relationships with our clients, so we maintain transparency in everything we do. We believe in working hard to achieve our goals. 
                 We are always open to suggestions and feedback.
             </p>
@@ -179,7 +179,7 @@
             <h2>Our Vision
             </h2>
             <p>
-             Logo Octa was established in 2011 to meet the growing demand for quality websites and online marketing services. We believe in thinking differently and challenging conventions to create incredible digital experiences for our clients.
+             Design Pioneer Studio was established in 2011 to meet the growing demand for quality websites and online marketing services. We believe in thinking differently and challenging conventions to create incredible digital experiences for our clients.
 
              </p>
           </div>
@@ -325,7 +325,7 @@
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -367,7 +367,7 @@
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              

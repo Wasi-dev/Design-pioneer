@@ -42,7 +42,7 @@ When people land on your website, they only have a few seconds to decide whether
             <span>All-Encompassing Website Designs
             </span>
             <h2> Website Designs That Are Flexible and Scalable </h2>
-            <p>Logo Octa is a leading website design agency in the USA. We can create stunning websites that impress your customers and stand out among your competitors. We have expert designers and developers who can create excellent website designs at affordable rates. Not everyone has the budget to hire a graphic designer. If you're looking to create a stunning website without spending too much money, then you should consider hiring Logo Octa. 
+            <p>Design Pioneer Studio is a leading website design agency in the USA. We can create stunning websites that impress your customers and stand out among your competitors. We have expert designers and developers who can create excellent website designs at affordable rates. Not everyone has the budget to hire a graphic designer. If you're looking to create a stunning website without spending too much money, then you should consider hiring Design Pioneer Studio. 
 </p>
             <p>Our team can create attractive and engaging websites that are bound to convert. We can cater to all your needs, from simple static to complex and dynamic websites. We can provide a variety of website designs that are suitable for different types of businesses.
 </p> 
@@ -69,7 +69,7 @@ When people land on your website, they only have a few seconds to decide whether
             <span>Premium Award-Winning E-Commerce Design Agency</span>
             <h2>Work With the Best Website Design & Development Agency</h2>
             <p>
-            To create a powerful e-commerce website, you must work with a top-notch web design company. We offer award-winning e-commerce web design services. Our team can create visually appealing websites that can help you to generate more leads and boost sales. We can create high-performance websites that are compatible with all devices. If you want to create an easy e-commerce website to manage and navigate, you must choose Logo Octa.
+            To create a powerful e-commerce website, you must work with a top-notch web design company. We offer award-winning e-commerce web design services. Our team can create visually appealing websites that can help you to generate more leads and boost sales. We can create high-performance websites that are compatible with all devices. If you want to create an easy e-commerce website to manage and navigate, you must choose Design Pioneer Studio.
             </p>
           </div>
           <ul class="h-scroll tech-icons">
@@ -98,7 +98,7 @@ When people land on your website, they only have a few seconds to decide whether
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -840,7 +840,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -858,7 +858,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -1053,7 +1053,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -1095,7 +1095,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              <a href="contact-us.html" class="btn-main bg-btn lnk wow fadeIn" data-wow-delay="0.3s">Let's Work Together <i class="fas fa-chevron-right fa-ani"></i><span class="circle"></span></a>

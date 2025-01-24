@@ -20,7 +20,7 @@
               <div class="bread-title">
                 <h2>Explainer Video Animation</h2>
                   <p class="mt20 wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-At Logo Octa, we offer explainer video animation services for all kinds of businesses and organizations. Our team is made up exclusively of award-winning animators, so you can be certain that your project will get the attention it deserves. Our team uses a number of highly advanced techniques to create an unforgettable experience for viewers on any screen or device. 
+At Design Pioneer Studio, we offer explainer video animation services for all kinds of businesses and organizations. Our team is made up exclusively of award-winning animators, so you can be certain that your project will get the attention it deserves. Our team uses a number of highly advanced techniques to create an unforgettable experience for viewers on any screen or device. 
                   </p>
                   
                   <div class="awards-block-tt  wow fadeIn" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeIn;"><img src="assest/images/hero/awards-logo.png" alt="awards-logo" class="img-fluid"></div>
@@ -83,10 +83,10 @@ Our talented crew consists of seasoned professionals who know exactly what it ta
         </div>
         <div class="col-lg-8 block-1">
           <div class="common-heading text-l pl25">
-            <span>Experts at Logo Octa Offer</span>
+            <span>Experts at Design Pioneer Studio Offer</span>
             <h2>Fun and Engaging Explainer Videos for Your Business</h2>
             <p>
-If you're looking for an experienced explainer video animation team, look no further than Logo Octa. We've helped countless clients create memorable and engaging animations that customers remember forever. Whether you need a new video or would like one produced from scratch, our talented team can help. We've created everything from corporate training videos to explainer videos for online campaigns.
+If you're looking for an experienced explainer video animation team, look no further than Design Pioneer Studio. We've helped countless clients create memorable and engaging animations that customers remember forever. Whether you need a new video or would like one produced from scratch, our talented team can help. We've created everything from corporate training videos to explainer videos for online campaigns.
                 </p>
                 <p>We offer flexible pricing options, along with the option of purchasing either an outright license or rights to use the footage in multiple productions. If you'd like to learn more about our professional explainer video animation services, please don't hesitate to contact us today. One of our friendly representatives will provide answers to any questions you may have and schedule a free consultation session with you.</p>
           </div>
@@ -109,7 +109,7 @@ If you're looking for an experienced explainer video animation team, look no fur
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
-          Climb the Ladder of Success with Logo Octa</h2>
+          Climb the Ladder of Success with Design Pioneer Studio</h2>
          <p class="wow fadeInUp"  data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;" >Let's Start a Conversation Today <span> <a href="tel:<?php echo $phone_link ?>" style="color: #fff;"><?php echo $phone ?></a> </span></p>
      </div>
      <div class="cta-para">
@@ -713,7 +713,7 @@ We work together to design a beautiful, functional website that represents your 
                          <div class="owl-item cloned active" style="width: 566px;">
                               <div class="testimonial-card">
                                  <div class="tt-text">
-                                    <p>Logo Octa offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
+                                    <p>Design Pioneer Studio offered me a customized solution for my website. Their team took into account all my requirements and delivered a creative, unique website within a short period of time. I got exactly what I wanted! Great job, guys!!</p>
                                  </div>
                                  <div class="client-thumbs mt30">
                                     <div class="media v-center upset">
@@ -731,7 +731,7 @@ We work together to design a beautiful, functional website that represents your 
                               <div class="testimonial-card">
                                  <div class="tt-text">
                                     <p>
-                                        I hired Logo Octa to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
+                                        I hired Design Pioneer Studio to design my website after looking at their previous projects. They were very efficient in designing the website per my specifications and within the agreed deadline. I am extremely satisfied with the final results and recommend them to anyone who wants a professional, user-friendly website
                                     </p>
                                  </div>
                                  <div class="client-thumbs mt30">
@@ -931,7 +931,7 @@ We work together to design a beautiful, functional website that represents your 
                         <div class="client-review wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeInUp;">
                            <img src="assest/images/client/execution.png" alt="">
                            <h6>Leading Technology</h6>
-                           <p>We at Logo Octa create websites using the latest technologies and cutting-edge techniques. </p>
+                           <p>We at Design Pioneer Studio create websites using the latest technologies and cutting-edge techniques. </p>
                         </div>
                      </div>
                      <!-- <div class="awardbgwithtext">
@@ -973,7 +973,7 @@ We work together to design a beautiful, functional website that represents your 
       </div>
       <div class="service-footer">
          <div class="single-content">
-            <h3>Achieve Long-Lasting Success with Logo Octa</h3>
+            <h3>Achieve Long-Lasting Success with Design Pioneer Studio</h3>
          </div>
          <div class="single-btn">
              
