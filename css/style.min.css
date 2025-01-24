@@ -2105,9 +2105,9 @@ html .mb10 {
     right: 0;
     left: 0;
     z-index: 0;
-    background: -moz-linear-gradient(328deg, #ec007b, #1d3ddd, #2f00b5);
-    background: -webkit-linear-gradient(328deg, #ec007b, #1d3ddd, #2f00b5);
-    background: linear-gradient(328deg, #ec007b, #1d3ddd, #2f00b5);
+    background: -moz-linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    background: -webkit-linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    background:  linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
 }
 .breadcrumb-area:after {
     position: absolute;
@@ -8121,9 +8121,8 @@ span.contact-head {
     color: #6a6a8e !important;
 }
 .dark-bg4 {
-    background-image: url(../assest/images/hero/Group\2728png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;
     padding: 0 50px;
 }
 .brd-dash,

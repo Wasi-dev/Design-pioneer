@@ -340,30 +340,7 @@
                </div>
             </div>
          </div>
-         <div class="row justify-content-center mt80">
-            <div class="col-lg-12">
-               <div class="awards">
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>10+<span>YEARS Experience</span></p>
-               </div>
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>4.2k<span>Projects
-                     Completed</span></p>
-               </div>
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.7s" style="visibility: visible;; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>3.9k<span>Happy <br>
-                     Clients</span></p>
-               </div> 
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>10+<span>Award <br>
-                     Won</span></p>
-               </div> 
-            </div>
-         </div>
+         
       </div>
       <div class="service-footer">
          <div class="single-content">

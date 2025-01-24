@@ -466,75 +466,7 @@ If you're looking for an experienced explainer video animation team, look no fur
    </section>
  <!--end Cta -->
 
-  <section class="case-study pad-tb bg-gradient6 deep-dark">
-  <div class="container">
-     <div class="row justify-content-center">
-      <div class="col-lg-10">
-        <div class="common-heading">
-          <span>Our Features</span>
-          <h2 class="mb30">With Us, You Have Complete Freedom to Create a Brand Identity from <span> Scratch.</span></h2>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-4">
-        <h3 class="mt20 mb10">Specialties <img src="assest/images/service/ecommerce/badge.png" alt=""> </h3>
-        <div class="niwax-list">
-          <ul class="list-ul ul-circle">
-           <li> Professional Animators</li>
-           <li> High-Quality Results</li>
-           <li> Flexible Pricing Options</li>
-           <li> Trusted & Award-Winning Team</li>
-           <li> A/B Testing</li>
-           <li> Expert Advice</li>
-
-          </ul>
-          </div>
-      </div>
-      <div class="col-lg-4">
-        <h3 class="mt20 mb10">What We Do? <img src="assest/images/service/ecommerce/stick.png" alt=""> </h3>
-        <div class="niwax-list">
-        <ul class="list-ul ul-circle">
-       
-       <li> Animated Explainer Videos</li>
-       <li> Character Design</li>
-       <li> Motion Graphics</li>
-       <li> Promotional Videos</li>
-       <li> Sound Effects</li>
-       <li> E-Learning Content</li>
-
-
-        </ul>
-      </div>
-    </div>
-      <div class="col-lg-4">
-        <h3 class="mt20 mb10">Best Practices <img src="assest/images/service/ecommerce/star.png" alt=""> </h3>
-        <div class="niwax-list">
-        <ul class="list-ul ul-circle">
-          
-           <li>  Strong Visuals</li>
-           <li>  Concrete Examples</li>
-           <li>  Simple Language</li>
-           <li>  Interactive Elements</li>
-           <li>  Clear Call to Action</li>
-           <li>  Compelling Storyline</li>
-
-
-        </ul>
-      </div>
-    </div>
-    </div>
-    <div class="service-footer">
-      <div class="single-content">
-         <h3>Generated 2x more with us</h3>
-      </div>
-      <div class="single-btn">
-         <a href="#offcanvasExample" data-bs-toggle="offcanvas"  data-sku="Lets Work Together" class="pkg_btn btn-main bg-btn lnk wow fadeIn re-color" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeIn;">Lets Work Together <i class="fas fa-chevron-right fa-ani"></i><span class="circle"></span></a>
-      </div>
-     </div>
-  </div>
-</section>
-
+ <?php include 'layout/our-features.php'; ?>
   
    <style>
   .btnclose {
@@ -946,30 +878,7 @@ We work together to design a beautiful, functional website that represents your 
                </div>
             </div>
          </div>
-         <div class="row justify-content-center mt80">
-            <div class="col-lg-12">
-               <div class="awards">
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>10+<span>YEARS Experience</span></p>
-               </div>
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.6s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>4.2k<span>Projects
-                     Completed</span></p>
-               </div>
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.7s" style="visibility: visible;; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>3.9k<span>Happy <br>
-                     Clients</span></p>
-               </div> 
-               <div class="awardbgwithtext wow fadeInUp" data-wow-delay="0.8s" style="visibility: visible; animation-name: fadeInUp;">
-                  <img src="assest/images/client/star.png" alt="">
-                  <p>10+<span>Award <br>
-                     Won</span></p>
-               </div> 
-            </div>
-         </div>
+       
       </div>
       <div class="service-footer">
          <div class="single-content">
