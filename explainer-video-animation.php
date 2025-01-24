@@ -105,7 +105,8 @@ If you're looking for an experienced explainer video animation team, look no fur
    
   <!--Start Cta -->
   <section class="cta wow fadeInUp" style="padding-top: 100px;" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInUp;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
     <div class="cta-content">
      <div class="cta-heading">
       <h2 class="wow fadeInUp"  data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;" >
@@ -445,7 +446,8 @@ If you're looking for an experienced explainer video animation team, look no fur
 
   <!--Start Cta -->
   <section class="cta wow fadeInLeft pad-tb" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-    <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+    <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
        <div class="row">
      <div class="cta-content col-lg-12 v-center">
       <div class="cta-heading">
@@ -792,7 +794,8 @@ We work together to design a beautiful, functional website that represents your 
   
   <!--Start Cta -->
   <section class="cta wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInLeft;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
       <div class="row">
     <div class="cta-content col-lg-12 v-center">
      <div class="cta-heading">
