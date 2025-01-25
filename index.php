@@ -283,7 +283,7 @@ We work together to design a beautiful, functional website that represents your 
          <div class="row justify-content-center">
             <div class="col-lg-2 col-sm-6 mt30 wow fadeInUp  "  >
                <div class="s-block text-l hoverwithbg up-hor animation">
-                  <div class="nx-circl-icon nxlp-a"> <img src="assest/images/process/process1.svg" alt="icon"> </div>
+                  <div class="nx-circl-icon nxlp-a"> <img src="assest/images/process/process1.gif" alt="icon"> </div>
                   <h4><a href="javascript:;">Step 01</a></h4>
                  <p>Getting To <br> 
                    Know You</p> 
@@ -291,28 +291,28 @@ We work together to design a beautiful, functional website that represents your 
             </div>
             <div class="col-lg-2 col-sm-6 mt30 wow fadeInUp ">
                <div class="s-block text-l hoverwithbg up-hor animation">
-                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process2.svg" alt="icon"> </div>
+                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process2.gif" alt="icon"> </div>
                   <h4><a href="javascript:;">Step 02</a></h4>
                      <p>	Research &  <br> Planning</p> 
                </div>
             </div>
             <div class="col-lg-2 col-sm-6 mt30 wow fadeInUp ">
                <div class="s-block text-l hoverwithbg up-hor animation">
-                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process3.svg" alt="icon"> </div>
+                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process3.gif" alt="icon"> </div>
                   <h4><a href="javascript:;">Step 03</a></h4>
                     <p>Fill Out Brief <br>Form</p> 
                </div>
             </div>
             <div class="col-lg-2 col-sm-6 mt30 wow fadeInUp " >
                <div class="s-block text-l hoverwithbg up-hor animation">
-                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process4.svg" alt="icon"> </div>
+                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process4.gif" alt="icon"> </div>
                   <h4><a href="javascript:;">Step 04</a></h4>
                  <p>Get Your Design<br>in 24Hr</p>
                </div>
             </div>
             <div class="col-lg-2 col-sm-6 mt30 wow fadeInUp "  >
                <div class="s-block text-l hoverwithbg up-hor animation">
-                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process5.svg" alt="icon"> </div>
+                  <div class="nx-circl-icon nxlp-c"> <img src="assest/images/process/process5.gif" alt="icon"> </div>
                   <h4><a href="javascript:;">Step 05</a></h4>
                   <p>Launch & Grow <br>
                    Your Business</p> 
@@ -2783,62 +2783,62 @@ We work together to design a beautiful, functional website that represents your 
          </div>
          <div class="row mt30">
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.1s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/state.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/state.gif" alt="img">
                   <p>Real estate</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/tour.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/tour.gif" alt="img">
                   <p>Tour & Travels</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/eductaion.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/education.gif" alt="img">
                   <p>Education</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.4s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/car.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/car.gif" alt="img">
                   <p>Transport</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.5s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/event.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/event.gif" alt="img">
                   <p>Event</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.6s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/ecom-01.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/ecom-01.gif" alt="img">
                   <p>eCommerce</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.7s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/games.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/games.gif" alt="img">
                   <p>Game</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.8s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/care.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/care.gif" alt="img">
                   <p>Healthcare</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="0.9s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/finance.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/finance.gif" alt="img">
                   <p>Finance</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="1s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/restuarent.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/restuarent.gif" alt="img">
                   <p>Restaurant</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="1.1s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/demand.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/demand.gif" alt="img">
                   <p>On-Demand</p>
                </div>
             </div>
             <div class="col-lg-3 col-sm-6 col-6 wow fadeIn" data-wow-delay="1.2s" style="visibility: visible; animation-name: fadeIn;">
-               <div class="industry-workfor hoshd"><img src="assest/images/industries/grocery.png" alt="img">
+               <div class="industry-workfor hoshd"><img src="assest/images/industries/grocery.gif" alt="img">
                   <p>Grocery</p>
                </div>
             </div>
