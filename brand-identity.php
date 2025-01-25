@@ -116,7 +116,8 @@
 
 <!--Start Cta -->
 <section class="cta wow fadeInUp" style="padding-top: 100px;" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInUp;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
       <div class="cta-content">
          <div class="cta-heading">
             <h2 class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-name: fadeInUp;">
@@ -141,7 +142,8 @@
 
 <!--Start Cta -->
 <section class="cta wow fadeInLeft pad-tb" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
       <div class="row">
          <div class="cta-content col-lg-12 v-center">
             <div class="cta-heading">
@@ -489,7 +491,8 @@
 
 <!--Start Cta -->
 <section class="cta wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-name: fadeInLeft;">
-   <div class="container" style="background-image: url('assest/images/cta/cta-bg.png'); background-repeat: no-repeat;">
+   <div class="container" style="background: linear-gradient(143deg, rgba(0, 0, 54, 1) 8%, rgba(56, 217, 235, 1) 53%, rgba(0, 0, 54, 1) 100%);
+    border-radius: 15px;">
       <div class="row">
          <div class="cta-content col-lg-12 v-center">
             <div class="cta-heading">
@@ -589,26 +592,6 @@
    </div>
 </section>
 <!--Start why choose --> <!--Start Clients-->
-<section class="clients-section lead-gen-client pad-tb">
-   <div class="container">
-      <div class="row justify-content-center">
-         <div class="col-lg-12">
-            <div class="common-heading resize">
-               <!-- <span>Clients Who Trust Us</span> -->
-               <h2>Promoting Innumerable Brands across the Globe</h2>
-            </div>
-         </div>
-         <div class="paragraph">
-            <p>We don't just design brands; we build them. Our team of experts can help you increase your business's awareness and encourage people to buy from you. We work with you to create a strong brand identity and care for everything else.</p>
-         </div>
-      </div>
-      <div class="row pad-cs">
-      </div>
-   </div>
-
-
-
-</section>
 <!--End Clients-->
 <!-- form -->
 <section class="enquire-form pad-tb">
