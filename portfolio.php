@@ -120,28 +120,6 @@ We work together to design a beautiful, functional website that represents your 
    <!--End our process-->
 
    <!--Start Clients-->
-   <section class="clients-section lead-gen-client pad-tb">
-      <div class="container">
-         <div class="row justify-content-center">
-            <div class="col-lg-12">
-               <div class="common-heading resize">
-                  <!-- <span>Clients Who Trust Us</span> -->
-                  <h2>Promoting Innumerable Brands across the Globe</h2>
-               </div>
-            </div>
-            <div class="paragraph">
-               <p>We don't just design brands; we build them. Our team of experts can help you increase your business's awareness and encourage people to buy from you. We work with you to create a strong brand identity and care for everything else.</p>
-            </div>
-         </div>
-            </div>
-         
-            </div>  
-         </div>
-      </div>
-         
- 
-         
-   </section>
    <!--End Clients-->
 
    <!--Start Footer-->
